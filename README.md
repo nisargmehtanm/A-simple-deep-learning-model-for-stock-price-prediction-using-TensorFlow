@@ -1,0 +1,2 @@
+# A-simple-deep-learning-model-for-stock-price-prediction-using-TensorFlow
+For a recent hackathon that we did at STATWORX, some of our team members scraped minutely S&amp;P 500 data from the Google Finance API. The data consisted of index as well as stock prices of the S&amp;P’s 500 constituents. Having this data at hand, the idea of developing a deep learning model for predicting the S&amp;P 500 index based on the 500 constituents prices one minute ago came immediately on my mind
